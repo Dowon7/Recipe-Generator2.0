@@ -21,4 +21,4 @@ Some things about the webpage:
 
 ![Demo Gif](assets/Ingridio-demo.gif)
 
-[Access the recipe finder here!](https://dowon7.github.io/Recipe-Generator/)
+[Access the recipe finder here!](https://dowon7.github.io/Recipe-Generator2.0/)
